@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import "./countryDetails.css";
+import "./CountryDetails.css";
 import { Link, useParams } from "react-router-dom";
 import { ThemeContext } from "../contexts/ThemeContext";
 import CountryDetailShimmer from "./CountryDetailShimmer";
